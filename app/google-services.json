@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259588376014",
+    "firebase_url": "https://terimeribaaten.firebaseio.com",
+    "project_id": "terimeribaaten",
+    "storage_bucket": "terimeribaaten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259588376014:android:e61b1c05a21c08c3",
+        "android_client_info": {
+          "package_name": "com.example.terimeribaaten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259588376014-ol26ogamjts4oe3isoccuileeiftqq6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.terimeribaaten",
+            "certificate_hash": "2431cd51a0bd42aaa1db438e39996b5adec29cae"
+          }
+        },
+        {
+          "client_id": "259588376014-63maufs7gddcufmkn78oti9740ut5qno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjp5akI3AlyEDUiYJhlWOK05m_umy52ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259588376014-63maufs7gddcufmkn78oti9740ut5qno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
